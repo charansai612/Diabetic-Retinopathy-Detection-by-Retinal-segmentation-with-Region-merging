@@ -34,6 +34,12 @@ Regional merging can be intergated in the data loader pipeline of CNN itself, bu
 
 
 
+#### TODO
+
+Retrain CNN to improve accuracy
+
+
+
 #### Reference:
 
 - https://ieeexplore.ieee.org/document/8721315
@@ -41,4 +47,5 @@ Regional merging can be intergated in the data loader pipeline of CNN itself, bu
 - https://github.com/DeepTrial/Retina-VesselNet
 - https://www.hindawi.com/journals/jhe/2017/4897258/
 - https://www.researchgate.net/publication/332263231_Generation_of_binary_mask_of_retinal_fundus_image_using_bimodal_masking
+- https://www.kaggle.com/c/diabetic-retinopathy-detection/data
 
